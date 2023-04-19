@@ -167,7 +167,7 @@ img.logo{
 }
 
 #hero button{
-    background-image: url(/Images/button.png);
+    background-image: url(./Images/button.png);
     background-color: transparent;
     color: #088178;
     border: 0;
