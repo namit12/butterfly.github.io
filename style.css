@@ -146,7 +146,7 @@ img.logo{
 
 /* Home Page */
 #hero{
-    background-image: url(/Images/hero4.png);
+    background-image: url(./Images/hero4.png);
     height: 90vh;
     width: 100%;
     background-size: cover;
